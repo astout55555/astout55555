@@ -25,7 +25,7 @@ I've also contributed as a secondary author to other bug fixes (or in one case s
 
 💬 Ask me about Unilogs, the open-source log observability platform I co-created earlier this year!
 
-I've pinned our repo, but the most enjoyable way to learn about Unilogs is to check out our website: https://unilogs.github.io/
+I've pinned our repo, but the best way to learn about Unilogs is to check out our website: https://unilogs.github.io/
 
 I was the lead author for the case study, and I think it turned out nicely :) It's not too long, so give it a read!
 
