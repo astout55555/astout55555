@@ -10,9 +10,9 @@ A lot of my work lately is not in a GitHub repo, so read on and I'll tell you a 
 
 ## Contributing to Firefox
 
-🔭 I’m currently working on contributing to Mozilla Firefox! It's been a fun experience, and it's great to know I'm helping to keep the internet free, open, and private.
+🔭 I’m currently an open source contributor for Mozilla Firefox. It's been fun, and it's great to know I'm helping to defend the open Internet!
 
-[![Mozilla Firefox Contributor](https://img.shields.io/badge/Mozilla-Firefox%20Contributor-orange?logo=firefox-browser)](https://bugzilla.mozilla.org/buglist.cgi?cmdtype=runnamed&namedcmd=My%20own%20bugs&list_id=17734813) Click on this badge to see my bug list, which includes a complex 14-year-old bug I fixed and an enhancement I made to the search bar, along with other items like my intro bug fix and a bug I filed myself.
+[![Mozilla Firefox Contributor](https://img.shields.io/badge/Mozilla-Firefox%20Contributor-orange?logo=firefox-browser)](https://bugzilla.mozilla.org/buglist.cgi?email1=alex.stout55555%40gmail.com&query_format=advanced&emailtype1=substring&emailassigned_to1=1&emailreporter1=1) Click on this badge to see all the bugzilla items that my username is attached to. This  includes a complex 14-year-old bug I fixed, an enhancement I made to the search bar, and other items like my intro bug fix and a bug I filed myself.
 
 I've also contributed as a secondary author to other bug fixes (or in one case simply determined that it was already resolved). These include:
 
