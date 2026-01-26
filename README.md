@@ -15,7 +15,7 @@ A lot of my other work lately is not in a GitHub repo, though, so read on and I'
 
 ## Unilogs
 
-💬 Ask me about Unilogs, the open-source log observability platform I co-created earlier this year!
+💬 Ask me about Unilogs, the open-source log observability platform I co-created last year!
 
 I've pinned our repo, but the best way to learn about Unilogs is to check out our website: https://unilogs.github.io/
 
@@ -25,7 +25,7 @@ I was the lead author for the case study, and I think it turned out nicely :) It
 
 🔭 I spent a few months contributing to Mozilla Firefox last year. It was a fun and interesting experience, and it's great to know I've helped to defend the open Internet!
 
-[![Mozilla Firefox Contributor](https://img.shields.io/badge/Mozilla-Firefox%20Contributor-orange?logo=firefox-browser)](https://bugzilla.mozilla.org/buglist.cgi?email1=alex.stout55555%40gmail.com&query_format=advanced&emailtype1=substring&emailassigned_to1=1&emailreporter1=1) Click on this badge to see all the bugzilla items that my username is attached to. This  includes a complex 14-year-old bug I fixed, an enhancement I made to the search bar, and other items like my intro bug fix and a bug I filed myself.
+[![Mozilla Firefox Contributor](https://img.shields.io/badge/Mozilla-Firefox%20Contributor-orange?logo=firefox-browser)](https://bugzilla.mozilla.org/buglist.cgi?email1=alex.stout55555%40gmail.com&query_format=advanced&emailtype1=substring&emailassigned_to1=1&emailreporter1=1) Click on this badge to see all the bugzilla items that my username is attached to. This  includes a complex 15-year-old bug I fixed, an enhancement I made to the search bar, and other items like my intro bug fix and a bug I filed myself.
 
 I've also contributed as a secondary author to other bug fixes (or in one case simply determined that it was already resolved). These include:
 
