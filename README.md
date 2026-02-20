@@ -6,10 +6,9 @@ Welcome to my GitHub profile page! I'm Alex Stout, a software engineer who's bee
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: As a kid I used to hang upside down in my bottom bunk bed, and now as an adult I go to an indoor climbing gym 🧗
 
-Lately I've been contributing to the Mastra AI framework, a TypeScript-based AI framework which I've found to be much more intuitive than LangChain. You can see my contributions (partnering with @zijin1994) in the pinned Mastra repo, or by following these links to a couple standout items:
+Lately I've been contributing to the Mastra AI framework, a TypeScript-based AI framework which I've found to be much more intuitive than LangChain. You can see my contributions (partnering with @zijin1994) in the pinned Mastra repo, but I've also linked to my favorite contribution below.
 
 - A native Datadog exporter for Mastra: https://github.com/mastra-ai/mastra/pull/11305
-- An LLM score data flow integrating with the existing observability pipeline so that they're accessible to exporters: https://github.com/mastra-ai/mastra/pull/11774
 
 A lot of my other work lately is not in a GitHub repo, though, so read on and I'll tell you a little bit about it.
 
