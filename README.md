@@ -1,14 +1,16 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile page! I'm Alex Stout, a software engineer who's been working with JavaScript/TypeScript and Ruby-based tech stacks for about 4 years now.
+Welcome to my GitHub profile page! I'm Alex Stout, a software engineer who's been working with JavaScript/TypeScript and Ruby-based tech stacks for about 4 years now. Most of my work is open-source, either contributions to established software like Firefox and Mastra, or projects that I've built myself or with a small team.
 
 - 📫 How to reach me: alex.stout55555@gmail.com
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: As a kid I used to hang upside down in my bottom bunk bed, and now as an adult I go to an indoor climbing gym 🧗
 
-Lately I've been contributing to the Mastra AI framework, a TypeScript-based AI framework which I've found to be much more intuitive than LangChain. You can see my contributions (partnering with @zijin1994) in the pinned Mastra repo, but I've also linked to my favorite contribution below.
+## Recent AI-focused Work
 
-- A native Datadog exporter for Mastra: https://github.com/mastra-ai/mastra/pull/11305
+Most recently, I designed and ran an experiment to see if I could improve the output of LLM models by using an agentic debate structure, and the results are promising! You can read more about it in [a short write-up I published](https://medium.com/@alex.stout55555/agentic-debate-an-architectural-solution-to-the-limitations-of-an-llm-model-ad6a73a525df), and see the full details in the pinned "Shoulder Agent" repo.
+
+Before that, I was contributing to the Mastra AI framework, a TypeScript-based agentic AI framework. You can see my contributions (partnering with @zijin1994) in the pinned Mastra repo, but I'll also link to my favorite contribution here, a native Datadog exporter for Mastra: https://github.com/mastra-ai/mastra/pull/11305
 
 A lot of my other work lately is not in a GitHub repo, though, so read on and I'll tell you a little bit about it.
 
