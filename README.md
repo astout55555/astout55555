@@ -10,7 +10,7 @@ Welcome to my GitHub profile page! I'm Alex Stout, a software engineer who's bee
 
 Most recently, I designed and ran an experiment to see if I could improve the output of LLM models by using an agentic debate structure, and the results are promising! You can read more about it in [a short write-up I published](https://medium.com/@alex.stout55555/agentic-debate-an-architectural-solution-to-the-limitations-of-an-llm-model-ad6a73a525df), and see the full details in the pinned "Shoulder Agent" repo.
 
-Before that, I was contributing to the Mastra AI framework, a TypeScript-based agentic AI framework. You can see my contributions (partnering with @zijin1994) in the pinned Mastra repo, but I'll also link to my favorite contribution here, a native Datadog exporter for Mastra: https://github.com/mastra-ai/mastra/pull/11305
+Before that, I was contributing to the Mastra AI framework, a TypeScript-based agentic AI framework. You can see my contributions (partnering with @zijin1994) in the pinned Mastra repo, but I'll also link to my favorite contribution here, a [native Datadog exporter for Mastra](https://github.com/mastra-ai/mastra/pull/11305). I also put together [a diagram](https://excalidraw.com/#json=Ja6T5ZppXsNh61l3ci--H,uVSDlNJ_SDbk8ugilU_mfQ) to help explain a lot of its design and core behavior; it is not a complete representation of the exporter, though (e.g. it doesn't explain the way the configuration options work). 
 
 A lot of my other work lately is not in a GitHub repo, though, so read on and I'll tell you a little bit about it.
 
