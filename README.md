@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile page! I'm Alex Stout, a software engineer who's been working with JavaScript/TypeScript and Ruby-based tech stacks for about 4 years now. Most of my work is open-source, either contributions to established software like Firefox and Mastra, or projects that I've built myself or with a small team.
+Welcome to my GitHub profile page! I'm Alex Stout, a software engineer who's been working with JavaScript/TypeScript and (secondarily) Ruby-based tech stacks for about 4 years now. More recently I've developed a working proficiency with Python, too. Most of my work is open-source, either contributions to established software like Firefox and Mastra, or projects that I've built myself or with a small team.
 
 - 📫 How to reach me: alex.stout55555@gmail.com
 - 😄 Pronouns: they/them
